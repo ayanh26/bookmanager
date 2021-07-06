@@ -1,0 +1,17 @@
+.options {
+  padding-top: 11rem;
+  justify-content: center;
+  display: flex;
+}
+
+#delete {
+  display: contents;
+}
+
+#add {
+  display: contents;
+}
+
+#update {
+  display: contents;
+}
